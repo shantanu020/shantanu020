@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shantanu Yadav</h1>
 <h3 align="center">A passionate Web & Java Developer and Cybersecurity Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu2603&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu2603" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shantanu020&label=Profile%20views&color=0e75b6&style=flat" alt="shantanu020" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shantanu-yadav-2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanu-yadav-2603" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/](https://www.linkedin.com/in/shantanu-yadav-3ba194281/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shantanu-yadav-2603" height="30" width="40" /></a>
 <a href="https://instagram.com/shantanu.y_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shantanu.y_03" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shantanu2603" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="shantanu2603" height="30" width="40" /></a>
 </p>
